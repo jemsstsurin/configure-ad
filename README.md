@@ -40,11 +40,14 @@ To install Active Directory you first got to Server Manager. Then you got to Add
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/47d6acb7-88b4-4625-bd7d-46c6f263c015)
+![image](https://github.com/user-attachments/assets/8e133e83-2d76-48cc-9911-94207c68f335)
+![image](https://github.com/user-attachments/assets/3d0de934-6362-4185-9cca-6a86533f9925)
+
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To setup domain controller you first need to click the flag icon on the top right and click "Promote this server to a domain controller". Then click "Add a new forest" and in "root domain name" put mydomain.com then click Next. On the Domain Control Option page you just put your password and click Next until you reach the "Prerequisite Check" page then press Install then your computer will Restart.
 </p>
 <br />
 
