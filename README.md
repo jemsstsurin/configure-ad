@@ -26,7 +26,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Set up a Domain Controller (DC)
 - Promote a Server to a Domain Controller
 - Group Policy Management Configuration
-- Configure Sites, Subnets, and Replication:
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -60,6 +59,7 @@ To setup domain controller you first need to click the flag icon on the top righ
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To open the Group Policy Management Console click Start, and type gpmc.msc in the search box, then press Enter. In the GPMC, navigate to the Group Policy Objects section. Then Right-click Group Policy Objects and select New to create a new GPO, or right-click an existing GPO and select Edit to modify it. In the Group Policy Management Editor, expand the following:
+Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Account Lockout Policy. And there you can Configure Account Lockout Policy Settings such as (Account Lockout Duration, Account Lockout Threshold, and Reset Account Lockout Counter After.
 </p>
 <br />
