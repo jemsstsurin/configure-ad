@@ -55,6 +55,9 @@ To setup domain controller you first need to click the flag icon on the top righ
 
 ![image](https://github.com/user-attachments/assets/a6da2515-2529-4615-a1e9-0797ada17e77)
 
+![image](https://github.com/user-attachments/assets/37b440ec-4f0d-4813-bd56-404180663245)
+
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
