@@ -25,7 +25,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Install Active Directory
 - Set up a Domain Controller (DC)
 - Promote a Server to a Domain Controller
-- Configure DNS
+- Group Policy Management Configuration
 - Configure Sites, Subnets, and Replication:
 
 <h2>Deployment and Configuration Steps</h2>
